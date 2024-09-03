@@ -1,0 +1,225 @@
+.home {
+    background: #5d648e; 
+    padding: 3px; 
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px; 
+    text-align: center;
+}
+
+hr {
+    border-style: dashed;  
+    font-weight: 100;   
+}
+
+.home a {
+    text-decoration: none; 
+    color: white; 
+    font-weight: bold; 
+    font-size: 20px;
+}
+
+.question {
+    background-color:#F6F7F8; 
+    text-align: center; 
+    font-weight: lighter;
+}
+
+.question b a{
+    text-decoration: none;color: black;font-weight: bold;
+}
+
+.recently{
+    background-color: #5d648e;
+    color: white;
+    font-weight: bolder;
+    text-align:center;
+    padding: 8px;
+    font-size: 18px;
+}
+
+ul li a{
+    color: darkgreen; 
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.download{
+    background-color: #F6F7F8; 
+    color: black;
+    font-weight: bolder;
+    text-align:center;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.select{
+    background-color: #5d648e;
+    color: white;
+    font-weight: bolder;
+    text-align:center;
+    padding: 5px;
+    font-size: 18px;
+}
+
+ul a p{
+    text-align: justify; 
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.alphabet{
+   margin-left: 2px;
+}
+
+.alphabet a {
+    color: darkolivegreen;
+    font-size: 19px;
+    text-decoration: none;
+}
+
+.wrestling{
+    background-color: #5d648e;
+     color: white;
+     font-weight: bolder;
+     padding: 5px;
+     font-size: 18px;
+}
+
+.o2{
+    background-color: #5d648e; 
+    color: white;
+    font-weight: bolder;
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+}
+
+.love{
+    background-color:#F6F7F8;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 19px;
+}
+
+.alltvseries{
+    background-color: #5d648e;
+     color: white;
+     font-weight: bold;
+     padding: 5px;
+}
+
+h4{
+   color: #5d648e; 
+   text-align: center;
+}
+
+ol hr{
+    border: 10px;
+}
+
+ol li a{
+    color:darkgreen; 
+    text-decoration: none; 
+    font-weight: lighter;
+    font-size:19px;
+}
+.new{
+    color: #5d648e; 
+    text-align: center;
+}
+.new a{
+    color: black;
+    text-decoration: none;
+}
+
+.foreign{
+    background-color: #F6F7F8;
+     text-align: center; 
+     font-size: large;
+     padding-top: 5px;
+     padding-bottom: 5px;
+}
+
+
+
+.back{
+    background-color: #5d648e;
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    font-weight: normal;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.back a{
+    background-color: #5d648e; 
+    text-align: center; 
+    font-weight: bolder; 
+    color: white;
+    font-weight: normal;
+    padding-top: 5px;
+    padding-bottom: 5px; 
+    text-decoration:none
+}
+
+.listgenres{
+    background-color: #5d648e;
+     color: white;
+     font-weight: bolder;
+     padding: 5px;
+}
+
+.genres{
+    font-weight: bolder;
+    color: #5d648e;
+    text-align: center;
+}
+
+ul a{
+    color:darkgreen; 
+    text-decoration: none;
+    font-weight: lighter;
+    font-size:19px;
+}
+
+.location{
+    background-color: #5d648e;
+    color: white;
+    font-weight: bolder;
+    padding: 8px; 
+    font-size: 18px;
+}
+
+.name{
+    text-align: center; 
+}
+
+.about{
+    font-size: 17px;
+    text-align: center;
+}
+
+ul hr{
+    border: 10px;
+}
+
+.aborc{
+    background-color:  #F6F7F8;
+    text-align: center;
+    color: black;
+    font-weight:bold;
+    padding-top: 9px;
+    padding-bottom: 5px;
+}
+
+.abc{
+    font-weight: bolder;
+    color: #5d648e;
+    text-align: center;
+    font-size:19px
+}
+
+.img{
+    text-align: center;
+}
+
